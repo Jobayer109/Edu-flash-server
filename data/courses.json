@@ -11,13 +11,14 @@
       " name": "Mir Hussain Murtaza",
       "imgUrl": "https://herosapp.nyc3.digitaloceanspaces.com/heroHQ/1648567532497Group%2033573.png",
       "designation": "Senior Web Instructor"
-    }
+    },
+    "lessons": ["Introduction", "Conditionals", "Functions", "Scope", "Arrays", "Loops"]
   },
   {
     "id": "02",
     "course_name": "Python",
     "img": "https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png",
-    "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.[32]Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a batteries included language due to its comprehensive standard library.[33][34]Guido van began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0.[35] Python 2.0 was released in 2000 and introduced new features such as list comprehensions, cycle-detecting garbage collection, reference counting, and Unicode support. Python 3.0, released in 2008, was a major revision that is not completely backward-compatible with earlier versions. Python 2 was discontinued with version 2.7.18 in 2020.[36]",
+    "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.[32]Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a batteries included language due to its comprehensive standard library.[33][34]Guido van began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0.[35] Python 2.0 was released in 2000 and introduced new lessons such as list comprehensions, cycle-detecting garbage collection, reference counting, and Unicode support. Python 3.0, released in 2008, was a major revision that is not completely backward-compatible with earlier versions. Python 2 was discontinued with version 2.7.18 in 2020.[36]",
     "rating": "4.9",
     "comment": "302",
     "fee": "1100",
@@ -25,7 +26,8 @@
       "name": "Rokibul Hasan Rokib",
       "imgUrl": "https://herosapp.nyc3.digitaloceanspaces.com/heroHQ/1659644725507Group%2033566.png",
       "designation": "Web Instructor"
-    }
+    },
+    "lessons": ["Hello world", "Control flow", "Lists", "Functions", "Modules", "Loops"]
   },
   {
     "id": "03",
@@ -39,7 +41,8 @@
       "name": "Farhan Elias",
       "imgUrl": "https://herosapp.nyc3.digitaloceanspaces.com/heroHQ/16485598613801647555749266.png",
       "designation": "Web Instructor"
-    }
+    },
+    "lessons": ["Introduction", "Variables", "FMT Package", "Conditionals", "Functions"]
   },
   {
     "id": "04",
@@ -53,7 +56,8 @@
       "name": "Md. Asif Iqbal",
       "imgUrl": "https://herosapp.nyc3.digitaloceanspaces.com/heroHQ/16485601623451625574565054.png",
       "designation": "Senior Web Instructor"
-    }
+    },
+    "lessons": ["Introduction", "Object-oriented-java", "Conditional and control flow", , "Arrays"]
   },
   {
     "id": "05",
@@ -67,7 +71,15 @@
       "name": "MD GIAS UDDIN",
       "imgUrl": "https://herosapp.nyc3.digitaloceanspaces.com/heroHQ/16485565940161625574531839.png",
       "designation": "Senior Web Instructor"
-    }
+    },
+    "lessons": [
+      "Introduction",
+      "Objects",
+      "Functions",
+      "CLasses",
+      "Handling and Validation",
+      "Functions"
+    ]
   },
   {
     "id": "06",
@@ -81,6 +93,14 @@
       "name": "Shakil Ahmed Atik",
       "imgUrl": "https://herosapp.nyc3.digitaloceanspaces.com/heroHQ/16485566026961647555626938.png",
       "designation": "Web Instructor"
-    }
+    },
+    "lessons": [
+      "Introduction",
+      "Control flow",
+      "Functions",
+      "Hashes and Symbols",
+      "Sorting",
+      "Looping"
+    ]
   }
 ]
