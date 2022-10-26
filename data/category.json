@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "aaa111",
+    "category_name": "Javascript"
+  },
+
+  {
+    "_id": "bbb222",
+    "category_name": "Python"
+  },
+  {
+    "_id": "ccc333",
+    "category_name": "Go"
+  },
+  {
+    "_id": "ddd444",
+    "category_name": "Java"
+  },
+  {
+    "_id": "eee555",
+    "category_name": "PHP"
+  },
+  {
+    "_id": "fff666",
+    "category_name": "Ruby"
+  }
+]
